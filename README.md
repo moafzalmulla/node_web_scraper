@@ -1,10 +1,11 @@
 # node_web_scraper
 
 ## Situation
-- A web scraper for built in node.
+- A web scraper for built in node that outputs scrape data in json objects
 - This awesome example uses IMDB website and was orginally posted by Scotch.io: https://scotch.io/tutorials/scraping-the-web-with-node-js
-- Due to IMDB site frontend element updates - orginal script doesnt work.
-- In this Repo I have resolved all bugs and updated the fetch criteria to match any new classes etc to enable the script to work.
+- Due to IMDB site frontend element updates - orginal script sadly didnt work anymore.
+- In this Repo I have resolved all bugs and updated the fetch criteria to match any new classes etc to enable the script to work as of February 2019
+- Things might change again if IMDB hires a new front end dev :) , but till then we should be ok 
 
 ## Deliverable
 - Once the script is run, it produces a file called output.json which will contain, scraped data in a json format.
@@ -27,5 +28,6 @@ PS.
 
 - Once again thanks to Scotch.io for this awesome script
 - Also thanks to Sky Ham who spotted the bug initially and posted a fix in the comments
+- If you have any issues implementin this script, hit me up on twitter below - I should get back to you fairly quickly
 
 >For the love of code - [@tweetzal](https://twitter.com/tweetzal)
