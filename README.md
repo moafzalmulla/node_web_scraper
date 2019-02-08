@@ -28,4 +28,4 @@ PS.
 - Once again thanks to Scotch.io for this awesome script
 - Also thanks to Sky Ham who spotted the bug initially and posted a fix in the comments
 
->For the love of code - @tweetzal
+>For the love of code - [@tweetzal](https://twitter.com/tweetzal)
